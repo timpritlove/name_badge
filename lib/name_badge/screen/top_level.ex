@@ -5,6 +5,7 @@ defmodule NameBadge.Screen.TopLevel do
 
   @screens [
     {Screen.NameBadge, "Name Badge"},
+    {Screen.Foo, "Foo"},
     {Screen.Gallery, "Gallery"},
     {Screen.Snake, "Snake"},
     {Screen.Weather, "Weather"},

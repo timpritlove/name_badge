@@ -47,6 +47,7 @@ defmodule NameBadge.MixProject do
       {:typst, "~> 0.1.7"},
       {:qr_code, "~> 3.2.0"},
       {:tzdata, "~> 1.1"},
+      {:pngex, "~> 0.1.2"},
 
       # Allow Nerves.Runtime on host to support development, testing and CI.
       # See config/host.exs for usage.
